@@ -26,3 +26,7 @@ universal, neural, checkpot
 
 https://arxiv.org/pdf/1907.06249.pdf
 Same thing as our paper, but focus on baysian stuff, context free grammar, 
+
+https://arxiv.org/pdf/1610.05735.pdf
+also tries to improve inference with deep, same thing slightly worse, 
+
