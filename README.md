@@ -1,3 +1,3 @@
 # Compiled Inference
 
-The main file is [compiled_inference.ipynb](compiled_inference.ipynb).
+The main files are [report.pdf](report.pdf) and [compiled_inference.ipynb](compiled_inference.ipynb).
